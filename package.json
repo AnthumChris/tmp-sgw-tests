@@ -1,0 +1,12 @@
+{
+  "name": "sgw-tests",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test-watch": "mocha -w"
+  }  
+}
