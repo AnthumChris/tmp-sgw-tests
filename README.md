@@ -7,11 +7,13 @@ yarn install
 ## Run
 
 ```sh
-yarn test
+yarn test-ava
+yarn test-mocha
 ```
 
 ## Develop
 
 ```sh
-yarn test-watch
+yarn test-ava-watch
+yarn test-mocha-watch
 ```
